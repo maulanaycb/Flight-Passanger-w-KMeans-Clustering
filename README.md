@@ -20,4 +20,4 @@ Membuat model yang dapat menentukan banyak cluster secara tepat dari customer se
 
 
 # Hasil segmentasi menggunakan Clustering
-![image](<img width="1169" alt="Screen Shot 2022-11-09 at 10 28 55 AM" src="https://user-images.githubusercontent.com/114377043/200731344-89379bb1-d03a-4795-a7b4-d33e920a89b5.png">)
+![image](file:///Users/fathiyasalsabila/Downloads/Screen%20Shot%202022-11-09%20at%2010.28.55%20AM.png)
